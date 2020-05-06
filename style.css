@@ -1,0 +1,44 @@
+#card{
+    border: 5px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 3em;
+    width: 50em;
+    height: fit-content;
+    flex-wrap: wrap;
+}
+
+
+#name{
+display: flex;
+justify-content: center;
+font-size: 5em;
+
+}
+
+#address{
+    display: flex;
+    justify-content: center;
+}
+
+#rating{
+    display: flex;
+    justify-content: center;
+}
+
+#cost{
+    display: flex;
+    justify-content: center;
+}
+
+#button{
+    display: flex;
+    justify-content: center;
+}
+
+.search-container{
+    display: flex;
+    flex-direction: row;
+    
+}
